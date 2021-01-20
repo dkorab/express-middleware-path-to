@@ -1,1 +1,3 @@
-# express-middleware-path-to
+# Express middleware as helper to ejs engine (and probably others).
+
+Work in progress...
