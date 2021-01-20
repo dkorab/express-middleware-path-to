@@ -1,3 +1,3 @@
-# Express middleware as helper to ejs engine (and probably others).
+Express middleware as helper to ejs engine (and probably others).
 
 Work in progress...
